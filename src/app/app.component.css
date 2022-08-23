@@ -1,0 +1,70 @@
+
+.titulo{
+    display: flex;
+    width: 100%;
+
+}
+h1 {
+    color:darkorchid;
+    text-align: center;
+    background-color: bisque;
+    margin: 1rem;
+    padding: 1rem;
+    width: 100%;
+    font-family: 'Press Start 2P', cursive;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.form-group {
+    
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    width: 30%;
+}
+
+.btn-group {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.btn.btn-light{
+    float: right;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+p{
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px;
+}
+
+h5{
+    text-align: right;
+    color:indianred;
+    background-color: beige;
+    font-weight: bold;
+    font-family:'Sansita Swashed', cursive;;
+    margin: 10px;
+    padding: 10px;
+}
+
+.navbar-brand {
+    display: flex;
+    color: indianred;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bolder;
+    
+    width: 50%;
+
+}
+h6{
+    color: indianred;
+    font-family: 'Press Start 2P', cursive;
+    font-size: .5rem;
+}
+
